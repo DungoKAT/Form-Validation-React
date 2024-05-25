@@ -1,0 +1,13 @@
+.container {
+    height: 100%;
+}
+
+.form-box {
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgb(200, 200, 200);
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+}
